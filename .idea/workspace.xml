@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Documents/bukalapak_ios_cucumber" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/faudzi/silogdis" value="PREVIEW" />
+        <entry key="$USER_HOME$/bukalapak-android-automation" value="PREVIEW" />
+        <entry key="$USER_HOME$/bukalapak_android_appium" value="PREVIEW" />
+        <entry key="$USER_HOME$/bukalapak_ios_cucumber" value="PREVIEW" />
+        <entry key="$USER_HOME$/ios/bukalapak_ios_cucumber" value="PREVIEW" />
+        <entry key="$USER_HOME$/mitra-android-automation" value="PREVIEW" />
+        <entry key="$USER_HOME$/work/bukalapak-android-automation" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="usePluginRegistry" value="true" />
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1440" />
+    <option name="y" value="25" />
+    <option name="width" value="1194" />
+    <option name="height" value="809" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1650889853329" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
